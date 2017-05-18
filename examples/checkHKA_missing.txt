@@ -1,0 +1,6 @@
+Checking HKAdirect: Hudson et al. 1987
+nloci 2
+IDloci	nsam	S	D	Lp	Ld	fchrn	pmissing
+Adh5'	81	9	210	414	4052	1	0.25
+Adh	81	8	18	79	324	1	0.502
+

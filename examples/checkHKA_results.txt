@@ -1,0 +1,24 @@
+
+Error opening the file 'Covij_sumcov_matrix_theta2.txt'
+
+HKAdirect 0.70beta(20150716beta).
+Sebastian E. Ramos-Onsins, Emanuelle Raineri and Luca Ferretti
+
+OUTPUT FILE: date Thu Jul 16 12:25:45 2015 
+
+Input data from the file: ../examples/checkHKA.txt
+
+Title: Checking HKAdirect: Hudson et al. 1987 
+nloci: 2
+
+#IDloci	nsam	obs_S	obs_div	length_pol	length_div	factor_chrn	expHKA_S	expVar_S	expHKA_div	expVar_D	expHKA_theta	partialHKA
+Adh5'	81	9	210.00	414.00	4052.00	1.00	13.48	25.51	205.52	911.61	0.00656	0.809	
+Adh	81	8	18.00	79.00	324.00	1.00	3.52	4.34	22.48	30.93	0.00897	5.276	
+
+Time to the ancestor (in 2N generations): 6.734	Chi-square value: 6.085	
+
+Significance of Chi-square: Significant, P(dgf=1) = 1.363e-02
+
+
+Date of completion: Thu Jul 16 12:25:45 2015
+Duration of the process: 0.000 seconds. (0h:0m:0s)
