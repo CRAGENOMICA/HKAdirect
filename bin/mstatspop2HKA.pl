@@ -33,6 +33,11 @@ while(<INPUT>) {
       push @HKAtable, ($nloci."\t".$2."\t".$5."\t".$6."\t".$3."\t".$4."\t".$options{'f'}."\t".$1);
       $nloci = $nloci + 1;
    }
+   elsif($_=~/Ratio\_Missing:\t(\S+)\t.+nsam\[$np\]:\t(\S+)\t.+Eff\_length1\_pop\_outg\[$np\]:\t(\S+)\tEff\_length2\_pop\_outg\[$np\]:\t(\S+)\t.+S\[$np\]:\t(\S+)\t.+Divergence\[$np\]:\t(\S+)\t.+/) {
+      push @HKAtable, ($nloci."\t".$2."\t".$5."\t".$6."\t".$4."\t".$5."\t".$options{'f'}."\t".$1);
+      $nloci = $nloci + 1;
+   }
+
 }
 close(INPUT);
 
