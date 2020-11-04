@@ -1,10 +1,7 @@
-
-Error opening the file 'Covij_sumcov_matrix_theta2.txt'
-
-HKAdirect 0.70beta(20150716beta).
+HKAdirect 0.70beta(20201104beta).
 Sebastian E. Ramos-Onsins, Emanuelle Raineri and Luca Ferretti
 
-OUTPUT FILE: date Thu Jul 16 12:25:45 2015 
+OUTPUT FILE: date Wed Nov  4 13:23:52 2020 
 
 Input data from the file: ../examples/checkHKA.txt
 
@@ -20,5 +17,5 @@ Time to the ancestor (in 2N generations): 6.734	Chi-square value: 6.085
 Significance of Chi-square: Significant, P(dgf=1) = 1.363e-02
 
 
-Date of completion: Thu Jul 16 12:25:45 2015
+Date of completion: Wed Nov  4 13:23:52 2020
 Duration of the process: 0.000 seconds. (0h:0m:0s)

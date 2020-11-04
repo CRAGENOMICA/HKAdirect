@@ -1,5 +1,5 @@
 
-#define HKAdirect "HKAdirect 0.70beta(20150716beta).\nSebastian E. Ramos-Onsins, Emanuelle Raineri and Luca Ferretti\n\n"
+#define HKAdirect "HKAdirect 0.70beta(20201104beta).\nSebastian E. Ramos-Onsins, Emanuelle Raineri and Luca Ferretti\n\n"
 
 struct parametersg {
     char title[1024];

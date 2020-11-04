@@ -16,3 +16,4 @@ float li_var(long int *S, long int len);
 int sample(long int nrep, long int len, int *data, int replace, float *prob, int *result);
 int unique(int *data, int lendata, int *result);
 double ran1(void);
+

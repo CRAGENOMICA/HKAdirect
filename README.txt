@@ -76,7 +76,6 @@ Time to the ancestor (in 2N generations): 6.734	Chi-square value: 6.085
 
 Significance of Chi-square: Significant, P(dgf=1) = 1.363e-02
 
-
 Good luck.
 
 Sebas

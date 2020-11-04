@@ -1,10 +1,7 @@
-
-Error opening the file 'Covij_sumcov_matrix_theta2.txt'
-
-HKAdirect 0.70beta(20150716beta).
+HKAdirect 0.70beta(20201104beta).
 Sebastian E. Ramos-Onsins, Emanuelle Raineri and Luca Ferretti
 
-OUTPUT FILE: date Thu Jul 16 12:25:45 2015 
+OUTPUT FILE: date Wed Nov  4 13:23:52 2020 
 
 Input data from the file: ../examples/checkHKA_missing.txt
 
@@ -12,13 +9,13 @@ Title: Checking HKAdirect: Hudson et al. 1987
 nloci: 2
 
 #IDloci	nsam	obs_S	obs_div	length_pol	length_div	factor_chrn	pmissing	expHKA_S	expVar_S0	expVar_Smiss	expHKA_div	expVar_D	expHKA_theta	partialHKA
-Adh5'	81	9	210.00	414.00	4052.00	1.00	0.250	13.71	27.71	23.25	205.29	1029.16	0.00708	0.974	
-Adh	81	8	18.00	79.00	324.00	1.00	0.502	3.29	4.26	4.20	22.71	32.78	0.00980	5.954	
+Adh5'	81	9	210.00	414.00	4052.00	1.00	0.250	13.71	27.71	28.57	205.29	1029.16	0.00708	0.797	
+Adh	81	8	18.00	79.00	324.00	1.00	0.502	3.29	4.26	4.42	22.71	32.78	0.00980	5.681	
 
-Time to the ancestor (in 2N generations): 6.152	Chi-square value: 6.928	
+Time to the ancestor (in 2N generations): 6.152	Chi-square value: 6.478	
 
-Significance of Chi-square: Significant, P(dgf=1) = 8.488e-03
+Significance of Chi-square: Significant, P(dgf=1) = 1.092e-02
 
 
-Date of completion: Thu Jul 16 12:25:50 2015
+Date of completion: Wed Nov  4 13:23:57 2020
 Duration of the process: 5.000 seconds. (0h:0m:5s)

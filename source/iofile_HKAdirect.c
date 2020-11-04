@@ -215,7 +215,7 @@ int input_Cij_matrix(float ****Cij_matrix,int *nx)
 	
 
 	if (!(file_input_Cij = fopen ("Covij_sumcov_matrix_theta2.txt","r"))) {
-        puts("\nError opening the file 'Covij_sumcov_matrix_theta2.txt'\n");
+        /*puts("\nAdditional file 'Covij_sumcov_matrix_theta2.txt' is not available for the analysis on missing positions\n");*/
         return(1);
     }
 	
